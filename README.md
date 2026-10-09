@@ -5,9 +5,9 @@
 项目目标是演示一个可复现的机器学习量化流程：构造日线特征、训练二分类模型、生成多空信号、执行期货回测，并输出模型、资金曲线和绩效报告。它不是实盘投资建议。
 ## 数据演示
 样本内收益图
-![运行截图](train_drawdown_comparison.png)
-回撤数据图
 ![运行截图](train_equity_curve_comparison.png)
+回撤数据图
+![运行截图](train_drawdown_comparison.png)
 样本外收益图
 ![运行截图](OSS.png)
 ## 策略逻辑
